@@ -3,7 +3,11 @@
 INTEGRANTES 
 
 Pietro Lorande | RM569125
+
+
 Luiz otavio britto freixo | RM 569977
+
+
 Maria Eduarda Lemos | RM574094
 
 
