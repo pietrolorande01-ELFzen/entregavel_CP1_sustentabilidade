@@ -10,14 +10,16 @@ Luiz otavio britto freixo | RM 569977
 
 Maria Eduarda Lemos | RM574094
 
+---
 
-LINK ENTREGAVEL CP1: 
+
+LINK ENTREGAVEL CP1: https://github.com/pietrolorande01-ELFzen/entregavel_CP1_sustentabilidade/tree/main
 
 link trello CP 1 : https://trello.com/invite/b/6a9b6947fa36b4d757bfadbf/ATTIf06135456fb1670e8f819b23dc4bacdf5FFB6243/sprintsers
 
 
 ---
 
-LINK ENTREGAVEL CP2: 
+LINK ENTREGAVEL CP2: https://github.com/pietrolorande01-ELFzen/entregavel_CP2_SERS
 
 Link trello CP 2 : https://trello.com/invite/b/6aade675e4a2fddaa89bc71b/ATTI83a4196a19136758446b9c08d9516198BBE75C3E/cp02-sers20
